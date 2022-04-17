@@ -1,6 +1,12 @@
 myusers:
-   - name: ravi
-     uid: 1010
-     first: ravi
+   - name: kavi
+     uid: 2020
+     first: kavi
      last: sharma
      middle: exam
+
+   - name: kahul
+     uid: 2011
+     first: kahul
+     last: sharma
+     middle: singh
